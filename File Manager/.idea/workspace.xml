@@ -26,8 +26,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
   </component>
-  <component name="RunManager" selected="Python.FilesManager">
-    <configuration name="FilesManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\merzl\OneDrive - ФГОБУ ВО Финансовый университет при Правительстве РФ\Python Scripts\Практикум 4 семестр\FilesManager" />
+      <recent name="C:\Users\merzl\OneDrive - ФГОБУ ВО Финансовый университет при Правительстве РФ\Python Scripts\Практикум 4 семестр\FilesManager\.idea" />
+      <recent name="C:\Users\merzl\OneDrive - ФГОБУ ВО Финансовый университет при Правительстве РФ\Python Scripts\Практикум 4 семестр\FilesManager\source" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FilesManager (2)">
+    <configuration name="FilesManager (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FilesManager" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/FilesManager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FilesManager (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FilesManager" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,6 +70,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FilesManager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FilesManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FilesManager" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\merzl\OneDrive - ФГОБУ ВО Финансовый университет при Правительстве РФ\Python Scripts\Практикум 4 семестр\FilesManager\source\FilesManager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,9 +125,13 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.FilesManager" />
+      <item itemvalue="Python.FilesManager (1)" />
+      <item itemvalue="Python.FilesManager (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FilesManager (2)" />
+        <item itemvalue="Python.FilesManager (1)" />
         <item itemvalue="Python.FilesManager" />
       </list>
     </recent_temporary>
@@ -91,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616535785735</updated>
-      <workItem from="1616535786913" duration="510000" />
+      <workItem from="1616535786913" duration="883000" />
     </task>
     <servers />
   </component>
@@ -103,24 +158,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1616535944271" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1616536176102">
+    <state width="1877" height="430" key="GridCell.Tab.0.bottom" timestamp="1616536888945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1616536176102" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1616536176101">
+    <state width="1877" height="430" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1616536888945" />
+    <state width="1877" height="430" key="GridCell.Tab.0.center" timestamp="1616536888945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1616536176101" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1616536176101">
+    <state width="1877" height="430" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1616536888945" />
+    <state width="1877" height="430" key="GridCell.Tab.0.left" timestamp="1616536888945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1616536176101" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1616536176102">
+    <state width="1877" height="430" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1616536888945" />
+    <state width="1877" height="430" key="GridCell.Tab.0.right" timestamp="1616536888945">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1616536176102" />
+    <state width="1877" height="430" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1616536888945" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FilesManager$FilesManager__1_.coverage" NAME="FilesManager (1) Coverage Results" MODIFIED="1616536505363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/FilesManager$FilesManager.coverage" NAME="FilesManager Coverage Results" MODIFIED="1616536176096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FilesManager$FilesManager__2_.coverage" NAME="FilesManager (2) Coverage Results" MODIFIED="1616536888939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
